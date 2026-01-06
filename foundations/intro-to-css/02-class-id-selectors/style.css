@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+p {
+    background-color:#ed51a190;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#num2 {
+    color: blue;
+    font-size:36px;
+}
+
+.coolerClass {
+    font-size:24px;
+}
+
+#another {
+    background-color: lightgreen;
+    font-size:24px;
+    font-weight:bold;
+}
